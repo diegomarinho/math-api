@@ -1,0 +1,11 @@
+Getting Started With Math API
+
+This is an example output for a service running at http://localhost:9900:
+
+Operation types "SUM", "SUB"
+
+.request
+include::{snippets}/math/http-request.adoc[]
+
+.response
+include::{snippets}/math/http-response.adoc[]

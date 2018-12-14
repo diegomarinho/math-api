@@ -1,0 +1,15 @@
+### Server ###
+server:
+  port: ${port:9903}
+
+### Logging ###
+logging:
+  level:
+    ROOT: INFO
+  pattern:
+      console: "%d{yyyy-MM-dd HH:mm:ss} %magenta(%thread) %-5level %logger{5} %msg%n%ex{3}"
+
+### Spring ###
+spring:
+  application:
+    name: math-api
