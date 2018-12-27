@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 /**
- * @author jalmeida
+ * @author dialmeida
  *
  * Produces message to a producer
  */

@@ -15,7 +15,7 @@ import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.amqp.rabbit.retry.MessageRecoverer;
 
 /**
- * @author jalmeida
+ * @author dialmeida
  *
  * Apply message recovery
  */

@@ -10,7 +10,7 @@ import org.springframework.amqp.core.MessageProperties;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 
 /**
- * @author jalmeida
+ * @author dialmeida
  *
  * Receive all messages and send to listener
  */

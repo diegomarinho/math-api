@@ -1,7 +1,7 @@
 package br.com.dma.math.infra.rabbitmq;
 
 /**
- * @author jalmeida
+ * @author dialmeida
  *
  * Arguments of RabbitMQ
  */

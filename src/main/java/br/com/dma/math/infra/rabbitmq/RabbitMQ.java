@@ -14,7 +14,7 @@ import org.springframework.amqp.core.Queue;
 import org.springframework.amqp.rabbit.core.RabbitAdmin;
 
 /**
- * @author jalmeida
+ * @author dialmeida
  *
  * Create queues, exchange and bindings on RabbitMQ
  */

@@ -27,7 +27,7 @@ import org.springframework.retry.support.RetryTemplate;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * @author jalmeida
+ * @author dialmeida
  *
  * RabbitMQ Configuration
  */
